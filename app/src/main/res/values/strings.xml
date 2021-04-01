@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Authentication24112020</string>
+    <string name="facebook_app_id">754740172073071</string> <string name="fb_login_protocol_scheme">fb754740172073071</string>
+
+</resources>
